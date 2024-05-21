@@ -22,9 +22,3 @@ Acest repository conține codul și documentația pentru analiza și reprezentar
 Aceste date sunt utilizate pentru a construi și analiza două modele de regresie:
 1. Regresie liniară
 2. Regresie parabolică
-
-## Instrucțiuni de Utilizare
-
-1. Clonează acest repository:
-   ```sh
-   git clone https://github.com/numele-tau/analiza-date-experimentale.git
