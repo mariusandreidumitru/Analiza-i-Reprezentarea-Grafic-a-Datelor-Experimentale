@@ -7,10 +7,9 @@ Acest repository conține codul și documentația pentru analiza și reprezentar
 
 ## Conținutul Repository-ului
 
-- **`data_analysis.py`**: Script Python care efectuează analiza datelor și calculează coeficientul de determinare \( R^2 \) pentru regresiile liniară și parabolică.
-- **`graphical_representation.py`**: Script Python care utilizează biblioteca `matplotlib` pentru a reprezenta grafic datele și funcțiile de regresie.
+- **`reprezentare_grafica.py`**: Script Python care utilizează biblioteca `matplotlib` pentru a reprezenta grafic datele și funcțiile de regresie.
 - **`README.md`**: Acest fișier, care oferă o descriere detaliată a proiectului și instrucțiuni pentru rularea codului.
-- **`results/`**: Un folder care conține graficele generate și fișierele de rezultate.
+
 
 ## Descrierea Dataset-ului
 
